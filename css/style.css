@@ -47,4 +47,23 @@ header .header-nav-menu a{
 header .header-nav-menu a:hover,header .header-nav-menu a:hover{
     color: var(--blue);
 }
-
+main .main-presentation-container{
+    width: 100%;
+    height: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    background: linear-gradient(207.8deg, var(--black) 16.69%, var(--grey) 100%);
+}
+main .main-presentation-container h1{
+    font-size: 2.6rem;
+    font-weight: 550;
+    letter-spacing: 10px;
+    color: var(--white);
+}
+main .main-presentation-container h2{
+    margin-top: 5px;
+    font-size: 1.8rem;
+    font-weight:normal;
+    color: var(--white);
+}
