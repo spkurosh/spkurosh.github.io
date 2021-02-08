@@ -73,7 +73,7 @@ main .main-presentation-container{
 }
 .main-presentation-container--me img{
     position: absolute;
-    left: calc(50% - 120px);
+    left: calc(50% - 100px);
     top: 80px;
     width: 200px;
     border-radius: 50%;
