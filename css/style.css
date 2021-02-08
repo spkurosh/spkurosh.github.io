@@ -29,24 +29,25 @@ header .header-nav-menu{
     justify-content: center;
 }
 header .header-nav-menu li{
+    padding: 10px 0;
+    list-style: none;   
+}
+header .header-nav-menu a{
     padding: 10px;
-    list-style: none;
+    text-align: center;
+    font-size: 1.8rem;
+    font-weight: 300;
+    line-height: 1.6rem;
+    color: var(--white);
+    text-decoration: none;
     
 }
-header .header-nav-menu  li:active, header .header-nav-menu  li:hover{
+header .header-nav-menu  a:active, header .header-nav-menu  a:hover{
+    font-weight: 500;
+    color: var(--blue);
     border-bottom: 5px solid var(--blue);
 }
 
-header .header-nav-menu a{
-    text-align: center;
-    font-size: 1.8rem;
-    line-height: 2.8rem;
-    color: var(--white);
-    text-decoration: none;
-}
-header .header-nav-menu a:hover,header .header-nav-menu a:hover{
-    color: var(--blue);
-}
 main .main-presentation-container{
     width: 100%;
     height: auto;
@@ -55,15 +56,41 @@ main .main-presentation-container{
     text-align: center;
     background: linear-gradient(207.8deg, var(--black) 16.69%, var(--grey) 100%);
 }
-main .main-presentation-container h1{
+.main-presentation-container--me{
+    position: relative;
+}
+.main-presentation-container--me h1{
     font-size: 2.6rem;
     font-weight: 550;
     letter-spacing: 10px;
     color: var(--white);
 }
-main .main-presentation-container h2{
+.main-presentation-container--me h2{
     margin-top: 5px;
     font-size: 1.8rem;
     font-weight:normal;
     color: var(--white);
+}
+.main-presentation-container--me img{
+    position: absolute;
+    left: calc(50% - 120px);
+    top: 80px;
+    width: 200px;
+    border-radius: 50%;
+}
+
+.main-hello-container{
+    display: flex;
+    justify-content: center;
+    padding-top: 200px;
+}
+.main-hello-container--hello-there{
+    width: 90%;
+    text-align: center;
+}
+.main-hello-container--hello-there article{
+    font-size: 1.6rem;
+    font-weight: normal;
+    line-height: 1.6rem;
+    color: var(--black);
 }
