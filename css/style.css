@@ -90,7 +90,7 @@ main .main-presentation-container{
 }
 .main-hello-container--hello-there article{
     font-size: 1.6rem;
-    font-weight: normal;
+    font-weight: 600;
     line-height: 1.6rem;
     color: var(--black);
 }
