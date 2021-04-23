@@ -8,9 +8,9 @@ póngase cómodo. Bien bien. Ahora veamos… ¿por dónde empezar?
 Mi nombre es Ciro. Aquí está una foto
 de mí: 
 
-![Ciro](https://scontent.fpbc2-2.fna.fbcdn.net/v/t1.6435-9/67945290_2727991593892080_8998345119530745856_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=174925&_nc_eui2=AeGuafCwSkgC4shFJ_fVJ0Y5nKLv-E25P8ucou_4Tbk_y_8v4TAi0xG7oQ0FEjKVTND2DQbGe6a3sKUmkwUMfZ9P&_nc_ohc=QhasBEDPK9gAX_X4_2_&_nc_ht=scontent.fpbc2-2.fna&oh=045d836cabfe00cff591063692be916d&oe=60A8402C = 200x)
-
 <img src="https://scontent.fpbc2-2.fna.fbcdn.net/v/t1.6435-9/67945290_2727991593892080_8998345119530745856_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=174925&_nc_eui2=AeGuafCwSkgC4shFJ_fVJ0Y5nKLv-E25P8ucou_4Tbk_y_8v4TAi0xG7oQ0FEjKVTND2DQbGe6a3sKUmkwUMfZ9P&_nc_ohc=QhasBEDPK9gAX_X4_2_&_nc_ht=scontent.fpbc2-2.fna&oh=045d836cabfe00cff591063692be916d&oe=60A8402C" alt="Ciro" width="200"/>
+
+<br/>
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](./another-page.html).
